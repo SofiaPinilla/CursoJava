@@ -7,6 +7,8 @@ Scanner entrada= new Scanner(System.in);
 
         int edad = entrada.nextInt();
 
-        //if()
+        if(edad>=18){
+            System.out.println("Eres mayor de edad");
+        }System.out.println("Eres menor de edad");
     }
 }
