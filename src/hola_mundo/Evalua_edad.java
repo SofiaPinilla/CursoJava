@@ -1,0 +1,12 @@
+package hola_mundo;
+import java.util.*;
+public class Evalua_edad {
+    public static void main(String[] args) {
+Scanner entrada= new Scanner(System.in);
+        System.out.print("Introduce tu edad, por favor");
+
+        int edad = entrada.nextInt();
+
+        //if()
+    }
+}
